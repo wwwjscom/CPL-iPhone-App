@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'TabBar-Messing-Around' target in the 'TabBar-Messing-Around' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
